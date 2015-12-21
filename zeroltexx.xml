@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="7420dev/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" />
-  <project name="7420dev/android_kernel_samsung_zero" path="kernel/samsung/zero" remote="github" />
-  <project name="7420dev/android_vendor_samsung" path="vendor/samsung" remote="github" />
-  <project name="7420dev/android_hardware_samsung" path="hardware/samsung" remote="github" />
-  <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" />
 </manifest>
